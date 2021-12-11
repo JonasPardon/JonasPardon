@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [Contractify](https://contractify.io)
+
+### My stats
+
+![JonasPardon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasPardon&show_icons=true&count_private=true&line_height=40)
+
 <!--
 **JonasPardon/JonasPardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
