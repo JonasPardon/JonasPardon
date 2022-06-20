@@ -4,7 +4,7 @@
 
 ### My stats
 
-![JonasPardon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasPardon&show_icons=true&count_private=true&line_height=40)
+![JonasPardon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonasPardon&show_icons=true&count_private=true&line_height=40&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 <!--
 **JonasPardon/JonasPardon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
